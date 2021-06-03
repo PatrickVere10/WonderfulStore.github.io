@@ -1,0 +1,89 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: "Balsamiq Sans", cursive;
+}
+/* Inicia Cabecera */
+.menu {
+  background-color: #a66036;
+  padding-top: 1.5%;
+  padding-bottom: 0%;
+  padding-left: 1.5%;
+  width: 100%;
+}
+.store {
+  color: #cecece;
+  transition: 0.4s;
+  padding-bottom: 1.5%;
+}
+.store:hover {
+  color: white;
+  transition: 0.4s;
+}
+/* Termina Cabecera */
+.contenido {
+  width: 100%;
+  margin: auto;
+}
+.eso {
+  width: 33.333%;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: auto;
+}
+.eso input {
+  width: 100%;
+  margin: auto;
+}
+.cabezera {
+  background-color: #a66036;
+  color: #eeeeee;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+}
+.inicio {
+  color: #a66036;
+  text-align: center;
+  text-decoration: #eeeeee;
+}
+footer {
+  width: 100%;
+  height: 30px;
+  background-color: whitesmoke;
+  margin-bottom: 0;
+  border-top: 1px solid black;
+  text-align: center;
+  font-size: 20px;
+}
+.enviar {
+  width: 25%;
+  margin: auto;
+}
+.email {
+  width: 70%;
+}
+.contraseña {
+  width: 70%;
+}
+.centro {
+  margin: auto;
+}
+h5 {
+  padding-bottom: 6%;
+  font-size: 110%;
+}
+p {
+  padding-bottom: 6%;
+  font-size: 110%;
+}
+h2 {
+  padding-bottom: 10%;
+  font-size: 220%;
+}
+h5 a {
+  text-decoration: none;
+  color: #2b78e4;
+  padding-left: 2%;
+}
